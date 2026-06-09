@@ -36,15 +36,15 @@ tv
 #Podemos ver también una fila "n" esta nos indica la frecuencia con la que se repiten nuestras combinaciones
 # Por otro lado, nuestros resultados se leerían de la siguiente manera:
 
-#Las condiciones se leen con los número 1 y 0, donde 1 = presente y 0 = ausente. Entonces, las columnas que contengan el número 1 nos indican que la condición causal se cumplió, mientras que si nos indican 0 nos están diciendo que la condición causal no existió.
+#Las condiciones se leen con los número 1 y 0, donde 1 = presente y 0 = ausente. Entonces, las columnas que contengan el número 1 nos indican que la condición causal se cumplió, mientras que  0 nos indica que la condición causal no existió.
 #Respecto a la fila "out" este es nuestro apartado de resultados, también podemos observar que se lee con los números 1 y 0, donde 1 = éxitoso y 0 = fracaso.
 
-#El siguiente paso sería analizar cuales de nuestras condiciones causales son necesarias para el éxito del programa, es decir, que deben estar presentes para que nuestro programa sea exitoso.
+#El siguiente paso sería analizar cuales de nuestras condiciones causales son necesarias para el éxito del programa.
 
 # Condiciones Necesarias 
 QCAfit(x = datos[, c("A", "B", "C", "D")], y = datos$Resultado, necessity = TRUE)
 
-#Ahora, al ejecutar la función podemos notar lo siguiente: Letras de la A a la D seguidas de una lista de las mismas con un signo "~". Las letras mayúsculas sin signo representan la presencia de la condición, mientras que las letras con el signo representan la su ausencia.
+#Ahora, al ejecutar la función podemos notar lo siguiente: Letras de la A a la D seguidas de una lista de las mismas con un signo "~". Las letras mayúsculas sin signo representan la presencia de la condición, mientras que las letras con el signo representan su ausencia.
 #Es importante tener en cuenta que para decir que una condición es necesaria, nuestra función nos debe arrojar un 1, eso significaría que cuando se cumple esa condición existe la posibilidad de que nuestro programa sea exitoso. Sin embargo, en nuestro ejercicio obtuvimos datos menores a 1 
 
 
