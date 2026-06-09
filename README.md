@@ -5,7 +5,8 @@ Este ejercicio tiene como finalidad realizar la exposición de un tema visto en 
 
 ## Descripción del objeto de análisis
 
-Nombre de la política pública: "Programa Nacional de Empleo Juvenil (PNAEJ)" 
+Nombre de la política pública: "Programa Nacional de Empleo Juvenil (PNAEJ)"
+
 El PNAEJ es una política pública diseñada para reducir los niveles de desempleo entre jóvenes de 18 a 30 años. Esta política fue aprobada en 25 municipios del estado de Guanajuato para someterlo a una primera prueba de funcionamiento y nuestra tarea es realizar una evaluación sobre las condiciones causales de éxito. Por lo que, hemos decidido realizar una prueba QCA para detectar los patrones de comportamiento que nos pueden dar una pista sobre el éxito o fracaso de dicho programa.
 
 Las condiciones causales que consideramos importantes para que el programa funcione son las siguientes.
