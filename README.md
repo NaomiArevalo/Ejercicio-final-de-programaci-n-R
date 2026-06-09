@@ -11,7 +11,7 @@ El PNAEJ es una política pública diseñada para reducir los niveles de desempl
 
 Las condiciones causales que consideramos importantes para que el programa funcione son las siguientes.
 1. Capacitación. Presencia = el programa incluye capacitación técnica o habilidades alineadas con la demanda laboral actual y ausencia = la capacitación es nula o desactualizada.
-2. Participación de empresas privadas. Presencia = existe alianza activa y formal con empresas privadas para oferta de empleo y usencia = el programa es gestionado solo por instituciones públicas sin participación privada.
+2. Participación de empresas privadas. Presencia = existe alianza activa y formal con empresas privadas para oferta de empleo y ausencia = el programa es gestionado solo por instituciones públicas sin participación privada.
 3. Monitoreo del programa. Presencia = el programa realiza acompañamiento y seguimiento a los jóvenes en su desempeño y ausencia = no hay seguimiento.
 4. Prioridad a las personas en situación de vulnerabilidad. Presencia = el programa prioriza y tiene estrategias diseñadas para jóvenes en condición de  vulnerabilidad (pobreza extrema, zonas rurales, bajos niveles educativos, etc.) y ausencia = el programa tiene un enfoque universal sin diferenciación por vulnerabilidad.
 
