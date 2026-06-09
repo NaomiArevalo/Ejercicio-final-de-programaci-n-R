@@ -21,4 +21,4 @@ Realicé un excel con los datos simulados de acuerdo a diferentes combinaciones 
 <img width="1367" height="522" alt="tabla" src="https://github.com/user-attachments/assets/c470373f-dd31-4ac5-b851-28c5462210a4" />
 
 
-*En seguida comenzaremos con el Análisis  Comparativo Cualitativo, este se encuentra desarrollado en el apartado "Ejercicio".*
+*En seguida comenzaremos con el Análisis  Comparativo Cualitativo, este se encuentra desarrollado en el apartado "Code".*
