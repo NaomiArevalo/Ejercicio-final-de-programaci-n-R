@@ -14,3 +14,10 @@ Las condiciones causales que consideramos importantes para que el programa funci
 3. Monitoreo del programa. Presencia = el programa realiza acompañamiento y seguimiento a los jóvenes en su desempeño y ausencia = no hay seguimiento.
 4. Prioridad a las personas en situación de vulnerabilidad. Presencia = el programa prioriza y tiene estrategias diseñadas para jóvenes en condición de  vulnerabilidad (pobreza extrema, zonas rurales, bajos niveles educativos, etc.) y ausencia = el programa tiene un enfoque universal sin diferenciación por vulnerabilidad.
 
+Realicé un excel con los datos simulados de acuerdo a diferentes combinaciones de las condiciones causales y los resultados. La tabla con información es la siguiente:
+
+
+<img width="1367" height="522" alt="tabla" src="https://github.com/user-attachments/assets/c470373f-dd31-4ac5-b851-28c5462210a4" />
+
+
+*En seguida comenzaremos con el Análisis  Comparativo Cualitativo, este se encuentra desarrollado en el apartado "Ejercicio".*
