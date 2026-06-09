@@ -22,7 +22,7 @@ view(datos)
 #Es importante prestar atención en la clasificación asignada en cada una de las condiciones causales, la cual es la siguiente:
 # A = Capacitación   B = Participacón de empresas  C = Monitoreo  D = Vulnerabilidad 
 
-# Esto se realiza por cuestiones prácticas al momento de utilizar la función para el qca.
+# Esto se realiza por cuestiones prácticas al momento de utilizar la función para el QCA.
 # Ahora podemos utilizar la siguiente función para realizar una tabla de la verdad a la que nombraremos "tv"
 
 # Tabla de Verdad
