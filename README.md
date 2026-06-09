@@ -13,14 +13,22 @@ Las condiciones causales que consideramos importantes para que el programa funci
 1. Capacitación.   \
 Presencia = el programa incluye capacitación técnica o habilidades alineadas con la demanda laboral actual.   \
 Ausencia = la capacitación es nula o desactualizada.
-3. Participación de empresas privadas. Presencia = existe alianza activa y formal con empresas privadas para oferta de empleo y ausencia = el programa es gestionado solo por instituciones públicas sin participación privada.
-5. Monitoreo del programa. Presencia = el programa realiza acompañamiento y seguimiento a los jóvenes en su desempeño y ausencia = no hay seguimiento.
-6. Prioridad a las personas en situación de vulnerabilidad. Presencia = el programa prioriza y tiene estrategias diseñadas para jóvenes en condición de  vulnerabilidad (pobreza extrema, zonas rurales, bajos niveles educativos, etc.) y ausencia = el programa tiene un enfoque universal sin diferenciación por vulnerabilidad.
+2. Participación de empresas privadas.   \
+   Presencia = existe alianza activa y formal con empresas privadas para oferta de empleo.   \
+   Ausencia = el programa es gestionado solo por instituciones públicas sin participación privada.
+3. Monitoreo del programa.   \
+   Presencia = el programa realiza acompañamiento y seguimiento a los jóvenes en su desempeño.    \
+   Ausencia = no hay seguimiento.
+4. Prioridad a las personas en situación de vulnerabilidad.   \
+   Presencia = el programa prioriza y tiene estrategias diseñadas para jóvenes en condición de  vulnerabilidad (pobreza extrema, zonas rurales, bajos niveles educativos, etc.).   \
+   Ausencia = el programa tiene un enfoque universal sin diferenciación por vulnerabilidad.
 
 Realicé un excel con los datos simulados de acuerdo a diferentes combinaciones de las condiciones causales y los resultados. La tabla con información es la siguiente:
 
 
 <img width="1367" height="522" alt="tabla" src="https://github.com/user-attachments/assets/c470373f-dd31-4ac5-b851-28c5462210a4" />
+
+
 
 
 *En seguida comenzaremos con el Análisis  Comparativo Cualitativo, este se encuentra desarrollado en el apartado "Code".*
