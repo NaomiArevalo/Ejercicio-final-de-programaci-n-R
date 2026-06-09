@@ -28,7 +28,8 @@ Realicé un excel con los datos simulados de acuerdo a diferentes combinaciones 
 
 <img width="1367" height="522" alt="tabla" src="https://github.com/user-attachments/assets/c470373f-dd31-4ac5-b851-28c5462210a4" />
 
+La tabla contiene los municipios en lo que se aprobó el programa, así como las condiciciones causales presentes en cada uno. Entonces podemos interpretarla de la siguiente manera: Los números 1 y 0, donde 1 = presente y 0 = ausente.
 
-
+Respecto a la fila de "Resultado" 1 = exitoso y 0 = fracaso.
 
 *En seguida comenzaremos con el Análisis  Comparativo Cualitativo, este se encuentra desarrollado en el apartado "Code".*
