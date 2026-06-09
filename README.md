@@ -23,13 +23,18 @@ Ausencia = la capacitación es nula o desactualizada.
    Presencia = el programa prioriza y tiene estrategias diseñadas para jóvenes en condición de  vulnerabilidad (pobreza extrema, zonas rurales, bajos niveles educativos, etc.).   \
    Ausencia = el programa tiene un enfoque universal sin diferenciación por vulnerabilidad.
 
-Realicé un excel con los datos simulados de acuerdo a diferentes combinaciones de las condiciones causales y los resultados. La tabla con información es la siguiente:
+Realicé un excel con los datos simulados de acuerdo a las diferentes combinaciones de condiciones causales y los resultados obtenidos. La tabla contiene los municipios en los que se aprobó el programa, así como las condiciciones causales presentes en cada uno.
 
+La "Presencia" se interpreta de la siguiente manera:   \
+Presente = 1   \
+Ausente = 0
+
+El "Resultado" se interpreta de la siguiente manera:   \
+Exitoso = 1   \
+Fracaso = 0
 
 <img width="1367" height="522" alt="tabla" src="https://github.com/user-attachments/assets/c470373f-dd31-4ac5-b851-28c5462210a4" />
 
-La tabla contiene los municipios en lo que se aprobó el programa, así como las condiciciones causales presentes en cada uno. Entonces podemos interpretarla de la siguiente manera: Los números 1 y 0, donde 1 = presente y 0 = ausente.
 
-Respecto a la fila de "Resultado" 1 = exitoso y 0 = fracaso.
 
 *En seguida comenzaremos con el Análisis  Comparativo Cualitativo, este se encuentra desarrollado en el apartado "Code".*
